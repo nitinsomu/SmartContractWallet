@@ -1,5 +1,5 @@
 ## SmartContractWallet
-#A smart contract wallet made using Solidity.
+A smart contract wallet made using Solidity.
 The features of the wallet are-
 1) The wallet has only one owner.
 2) The wallet can receive funds, no matter what.
